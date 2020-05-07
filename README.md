@@ -7,4 +7,4 @@ Also observe how certain variables like ethnicity and family income affect indiv
 hopefully gain some insight about the severity of social discrimination and injustice in college admission.
 
 
-# Just for the record, this analysis is JUST FOR RESEARCH, not meant to discriminate or judge anybody based on their skin color or family background. It's important to face the reality and problems we actually have, so all available data is analyzed. But not meant to discriminate.
+# Just for the record, this analysis is JUST FOR RESEARCH, not meant to discriminate or judge anybody based on their skin color or family background. It's important to face the reality and problems we actually have, so all available data is analyzed, but NOT MEANT TO DISCRIMINATE.
